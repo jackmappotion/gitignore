@@ -1,0 +1,25 @@
+# Personal
+tmp.py
+tmp.ipynb
+blueprint/
+
+# Jupyter Notebook
+*.ipynb
+!example.ipynb
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# vscode
+.vscode/
+
+# Mac
+.DS_Store
+
+# setuptools
+*.egg-info/
+build/
+dist/
+data/
+setup.py
